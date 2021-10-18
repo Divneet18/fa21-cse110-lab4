@@ -50,7 +50,8 @@ Question 17 -> Output : [2,4,6] ; Explanation : In the modifyArray function we t
 Question 18 -> In part2-question18.js
 
 Question 19 ->
-Output : 
+Output :
+
 1
 
 4
@@ -60,4 +61,5 @@ Output :
 2
 
 (2 is printed after a 1000 delay)
+(Note the output does not have an empty line between each number, it is the formatting)
 
