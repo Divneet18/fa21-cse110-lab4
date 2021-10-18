@@ -1,0 +1,2 @@
+1. The inputs from the user are strings and the program concatenated the two strings instead of adding them together.
+2. This was fixed by parsing the strings to integer using parseInt(). This returns the sum correctly now.
